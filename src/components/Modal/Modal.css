@@ -1,0 +1,24 @@
+.btn{
+    padding: 24px 16px;
+    background: yellow;
+    color: blue;
+    border: none;
+}
+.modal{
+    /* position: absolute; */
+    width: 600px;
+    background:yellow;
+    color: blue;
+    display:flex;
+    justify-content: center;
+    text-align: left;
+    padding: 24px;
+}
+.parent{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background:blue;
+    padding:80px;  
+}
